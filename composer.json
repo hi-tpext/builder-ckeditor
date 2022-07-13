@@ -17,10 +17,10 @@
     },
     "autoload": {
         "psr-4": {
-            "tpext\\builder\\ckeditor\\": "src/"
+            "tpext\\builder\\ckeditor\\": "./"
         },
         "files": [
-            "src/helper.php"
+            "./helper.php"
         ]
     }
 }
